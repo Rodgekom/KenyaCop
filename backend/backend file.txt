@@ -1,0 +1,8 @@
+Hello Sir,
+
+Kindly access our backend using the following URL:
+www.wrostdevelopers.com/KenyaInfoCop
+
+Credentials:
+Username :admin
+Password :admin

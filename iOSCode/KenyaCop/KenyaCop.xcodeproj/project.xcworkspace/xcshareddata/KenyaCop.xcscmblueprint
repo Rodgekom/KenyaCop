@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "72322C229173D89ED5D09CFF86F509B6A7EE3268",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "085D060F2E1C62543CBEADA4C3B82E141B5F4D11" : 9223372036854775807,
+    "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F" : 0,
+    "72322C229173D89ED5D09CFF86F509B6A7EE3268" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82AFAB0B-D853-4A10-8CF1-EAB09FC9DBC4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "085D060F2E1C62543CBEADA4C3B82E141B5F4D11" : "..\/Slideout-Sidebar-Demo",
+    "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F" : "..\/SWTableViewCell",
+    "72322C229173D89ED5D09CFF86F509B6A7EE3268" : "KenyaInfoCop\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KenyaCop",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Code\/KenyaCop\/KenyaCop.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/appcoda\/Slideout-Sidebar-Demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "085D060F2E1C62543CBEADA4C3B82E141B5F4D11"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CEWendel\/SWTableViewCell.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A959C88AC07FF3B7A809BFB89EA1C760CD1610F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rodgee\/KenyaInfoCop",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72322C229173D89ED5D09CFF86F509B6A7EE3268"
+    }
+  ]
+}

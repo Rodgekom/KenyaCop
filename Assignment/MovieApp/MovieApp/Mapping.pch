@@ -1,0 +1,24 @@
+//
+//  Mapping.pch
+//  MovieApp
+//
+//  Created by Rodgers Komen on 22/07/2016.
+//  Copyright © 2016 strathmore. All rights reserved.
+//
+
+#ifndef Mapping_pch
+#define Mapping_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define kTitle @"Title"
+#define kImdbID @"imdbID"
+#define kType @"Type"
+#define kYear @"Year"
+#define kPoster @"Poster"
+
+//Base URL
+#define kBaseAPIUrl @"BaseAPIUrl"
+
+#endif /* Mapping_pch */
