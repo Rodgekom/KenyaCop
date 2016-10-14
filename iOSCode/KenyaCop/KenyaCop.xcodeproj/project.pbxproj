@@ -12,7 +12,7 @@
 		4CF9DFF2E0CEE665DDC6A37C /* libPods-KenyaCopTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 84F6C65A841C4631F7A615CA /* libPods-KenyaCopTests.a */; };
 		701A75EE1DA431DD002FD81B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 701A75EC1DA431DD002FD81B /* Main.storyboard */; };
 		7023C0F71D50AF8100496C6E /* CrimeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7023C0F61D50AF8100496C6E /* CrimeViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		70454B871D99630F00437B45 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70454B861D99630E00437B45 /* CoreData.framework */; };
+		70454B871D99630F00437B45 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 70454B861D99630E00437B45 /* CoreData.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		7060033B1D4A342E000B6EED /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7060033A1D4A342E000B6EED /* MapKit.framework */; };
 		708E1B6A1D9D517000AE44EA /* CheckViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 708E1B691D9D517000AE44EA /* CheckViewController.m */; };
 		70931E4D1D4954BC009B77F9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 70931E4C1D4954BC009B77F9 /* main.m */; };

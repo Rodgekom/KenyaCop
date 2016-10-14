@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="15G1004" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="16A323" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
     <entity name="Emergency" syncable="YES">
         <attribute name="date_posted" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="event_description" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="event_name" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
+    <entity name="Entity" syncable="YES"/>
     <entity name="Report" syncable="YES">
         <attribute name="reportDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
         <attribute name="reportDescription" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="reportType" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
     <elements>
-        <element name="Report" positionX="-63" positionY="-18" width="128" height="90"/>
         <element name="Emergency" positionX="-63" positionY="9" width="128" height="90"/>
+        <element name="Report" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="Entity" positionX="-63" positionY="18" width="128" height="45"/>
     </elements>
 </model>

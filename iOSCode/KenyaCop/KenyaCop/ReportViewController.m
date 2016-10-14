@@ -71,7 +71,7 @@
         
         NSString *myRequestString = [[NSString alloc] initWithFormat:@"reportType=%@&reportDescription=%@&reportDate=%@", _reportType, _reportDescription, _reportDate];
         NSData *myRequestData = [ NSData dataWithBytes: [ myRequestString UTF8String ] length: [ myRequestString length ] ];
-        NSMutableURLRequest *request = [ [ NSMutableURLRequest alloc ] initWithURL: [ NSURL URLWithString:@"http://url.com/iphone/iphone.php/?"]];
+        NSMutableURLRequest *request = [ [ NSMutableURLRequest alloc ] initWithURL: [ NSURL URLWithString:@"http://www.wrostdevelopers.com/KenyaInfoCop/mobileAPI/index.php?action=citizenreport"]];
         
         [request setHTTPMethod: @"POST"];
         [request setValue:@"application/x-www-form-urlencoded" forHTTPHeaderField:@"content-type"];
